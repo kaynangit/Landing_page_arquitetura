@@ -28,7 +28,7 @@
 #menu-inferior{
     display: flex;
     align-items: center;
-    padding: 50px;
+    padding: 0px;
 }
 
 #texto-inferior{
